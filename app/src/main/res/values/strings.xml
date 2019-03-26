@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LastFM</string>
+    <string name="search_album_title">Search Albums</string>
+    <string name="search_hint">Enter an Album Name</string>
+
+    <string name="album_name_label">Album: %1$s</string>
+    <string name="album_artist_name">Artist: %1$s</string>
+    <string name="tags_label">Tags: %1$s</string>
+    <string name="track_count_label">Tracks: %1$s</string>
+    <string name="play_count_label">Play Count: %1$s</string>
+    <string name="album_art_content_description">A picture of the album cover</string>
+
+</resources>

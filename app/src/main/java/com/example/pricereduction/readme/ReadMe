@@ -1,0 +1,12 @@
+Possible Improvements(with time/scope):
+*More unit and instrumented tests
+*Reading from a cached response to form a live DTO for search and detail responses instead of mocking
+*Repository pattern with a db to cache search results
+*Recently searched suggestions for search view
+*Shared element transitions from Home -> Details
+*Interceptors for Retrofit to add universal parameters
+*Creating models to be used in the UI layer instead of reusing DTOs
+*Better error management
+*A UI hint for the users to search for something when the list is empty/app is started fresh
+*Better landscape support
+*Providing back navigation via toolbar in AlbumDetailsActivity
